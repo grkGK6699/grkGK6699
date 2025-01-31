@@ -7,7 +7,7 @@
 <h3>I Rely on below skills</h3>
 <p>
   <img alt="Python" src="https://img.shields.io/badge/-Python-E34F26?style=flat-square&logo=python&logoColor=white" />
-  <img alt="C/C++" src="https://img.shields.io/badge/-C/C++-007ACC?style=flat-square&logo=C++&logoColor=white" />
+  <img alt="C/C++" src="https://img.shields.io/badge/-C/C++-007ACC?style=flat-square&logo=cplusplus&logoColor=white" />
   <img alt="Java" src="https://img.shields.io/badge/-Java-be3d19?style=flat-square&logo=java&logoColor=white" />
   <img alt=".Net" src="https://img.shields.io/badge/-.Net-DD0031?style=flat-square&logo=dotnet&logoColor=white" />
   <img alt="SQL" src="https://img.shields.io/badge/-SQL-45b8d8?style=flat-square&logo=sql&logoColor=white" />
