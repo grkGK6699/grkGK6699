@@ -4,7 +4,7 @@
 
 ![](https://komarev.com/ghpvc/?username=cycosad&color=fb4362)
 
-<h3>I Program and Rely on below skills</h3>
+<h3>I Rely on below skills</h3>
 <p>
   <img alt="Python" src="https://img.shields.io/badge/-Python-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="C/C++" src="https://img.shields.io/badge/-C/C++-007ACC?style=flat-square&logo=typescript&logoColor=white" />
